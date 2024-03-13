@@ -1,0 +1,4 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V3.50\MPASMX\P16F628A.INC 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TRABALHO1.X\TRAB1.ASM 25 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TRABALHO1.X\TRAB1.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\FULVI\MPLABXPROJECTS\TRABALHO1.X\TRAB1.ASM 39 : Found directive in column 1. (END)

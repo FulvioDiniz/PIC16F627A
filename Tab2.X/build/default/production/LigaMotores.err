@@ -1,0 +1,19 @@
+Message[301] C:\PROGRAM FILES (X86)\MICROCHIP\MPLABX\V3.50\MPASMX\P16F628A.INC 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 10 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 11 : Found opcode in column 1. (BCF)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 11 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 12 : Found opcode in column 1. (BCF)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 13 : Found opcode in column 1. (BCF)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 13 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 14 : Found opcode in column 1. (BCF)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 14 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 15 : Found opcode in column 1. (BCF)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 15 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 16 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 17 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 18 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 19 : Found opcode in column 1. (BCF)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 20 : Found opcode in column 1. (BSF)
+Warning[203] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 21 : Found opcode in column 1. (BCF)
+Warning[205] C:\USERS\FULVI\MPLABXPROJECTS\TAB2.X\LIGAMOTORES.ASM 74 : Found directive in column 1. (END)

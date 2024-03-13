@@ -1,0 +1,3 @@
+Warning[207] C:\USERS\FULVI\MPLABXPROJECTS\CONTADOR0A10.X\CONTADOR0A10.ASM 24 : Found label after column 1. (V_FILTRO)
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\CONTADOR0A10.X\CONTADOR0A10.ASM 30 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\FULVI\MPLABXPROJECTS\CONTADOR0A10.X\CONTADOR0A10.ASM 75 : Found directive in column 1. (END)
