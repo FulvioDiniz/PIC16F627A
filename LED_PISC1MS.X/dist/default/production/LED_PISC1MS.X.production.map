@@ -1,0 +1,40 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Wed Mar 13 11:01:56 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                 RES_VECT       code   0x000000    program   0x000030
+                   .cinit    romdata   0x000018    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/LED_PIS       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000019      
+                            0x002007    0x002007      
+            27 out of 2182 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+          CARREGA_DELAY_2   0x00000a    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+       DECREMENTA_DELAY_2   0x00000c    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+              DELAY_500MS   0x000008    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+           LACO_PRINCIPAL   0x000003    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+           LACO_PRINCIPAL   0x000003    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+              DELAY_500MS   0x000008    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+          CARREGA_DELAY_2   0x00000a    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+       DECREMENTA_DELAY_2   0x00000c    program     static C:\Users\fulvi\MPLABXProjects\LED_PISC1MS.X\LED_PISC1MS.asm
+
+

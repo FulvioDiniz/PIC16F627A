@@ -1,0 +1,2 @@
+Message[302] C:\USERS\FULVI\MPLABXPROJECTS\LED_PISC1MS.X\LED_PISC1MS.ASM 26 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[205] C:\USERS\FULVI\MPLABXPROJECTS\LED_PISC1MS.X\LED_PISC1MS.ASM 53 : Found directive in column 1. (END)
