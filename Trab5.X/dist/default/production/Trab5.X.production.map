@@ -1,0 +1,52 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Wed Mar 20 10:34:54 2024
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                 RES_VECT       code   0x000000    program   0x00007c
+                   .cinit    romdata   0x00003e    program   0x000004
+.config_2007_BUILD/DEFAULT/PRODUCTION/TRAB5.O       code   0x002007    program   0x000002
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00003f      
+                            0x002007    0x002007      
+            65 out of 2182 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+          CARREGA_DELAY_2   0x00000d    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+          CARREGA_DELAY_4   0x000023    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+       DECREMENTA_DELAY_2   0x00000f    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+       DECREMENTA_DELAY_4   0x000025    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              DELAY_200MS   0x000021    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              DELAY_500MS   0x00000b    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              DESLIGA_LED   0x00003b    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+           LACO_PRINCIPAL   0x000004    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              PISCA_200MS   0x00002d    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              PISCA_500MS   0x000034    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+           LACO_PRINCIPAL   0x000004    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              DELAY_500MS   0x00000b    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+          CARREGA_DELAY_2   0x00000d    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+       DECREMENTA_DELAY_2   0x00000f    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              DELAY_200MS   0x000021    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+          CARREGA_DELAY_4   0x000023    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+       DECREMENTA_DELAY_4   0x000025    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              PISCA_200MS   0x00002d    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              PISCA_500MS   0x000034    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+              DESLIGA_LED   0x00003b    program     static C:\Users\fulvi\MPLABXProjects\Trab5.X\Trab5.asm
+
+
